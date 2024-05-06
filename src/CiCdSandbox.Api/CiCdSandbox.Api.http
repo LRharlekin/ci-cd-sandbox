@@ -1,0 +1,6 @@
+@CiCdSandbox.Api_HostAddress = http://localhost:5030
+
+GET {{CiCdSandbox.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
